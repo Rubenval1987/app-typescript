@@ -1,0 +1,22 @@
+{
+  "name": "curso-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.13.0",
+    "jquery": "^3.6.3",
+    "live-server": "^1.1.0",
+    "systemjs": "^0.21.5"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.16",
+    "@types/serialport": "^8.0.2"
+  },
+  "description": ""
+}
