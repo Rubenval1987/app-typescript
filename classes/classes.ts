@@ -5,8 +5,7 @@ class Data {
     mes: number
     ano: number
 
-    constructor(dia: number = 1, 
-        mes: number = 1, ano: number = 1950) {
+    constructor(dia: number = 1, mes: number = 1, ano: number = 1950) {
         this.dia = dia
         this.mes = mes
         this.ano = ano

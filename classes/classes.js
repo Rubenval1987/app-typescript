@@ -215,4 +215,7 @@ class Aviao {
 }
 const turboHelice = new Aviao('Tu-114', 'PT-ABC');
 console.log(turboHelice);
+const name = 'Otávio Miranda';
+const upperCaseName = name.toUppercase();
+console.log(upperCaseName);
 //# sourceMappingURL=classes.js.map

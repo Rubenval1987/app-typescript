@@ -39,7 +39,7 @@ var Cor;
     Cor[Cor["Preto"] = 5] = "Preto";
 })(Cor || (Cor = {}));
 console.log(Cor); //Imprimindo todos os dados 
-console.log(Cor.Vermelho, Cor.Amarelo, Cor.Preto); //Imprimindo só alguns dados
+console.log(Cor.Amarelo, Cor.Vermelho, Cor.Preto); //Imprimindo só alguns dados
 //ANY
 let carro;
 carro = { Marca: 'Mercedes', Ano: 2023 };

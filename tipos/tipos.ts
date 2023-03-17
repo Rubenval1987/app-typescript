@@ -58,7 +58,7 @@ enum Cor
     Preto
 }
 console.log(Cor) //Imprimindo todos os dados 
-console.log(Cor.Vermelho, Cor.Amarelo, Cor.Preto) //Imprimindo só alguns dados
+console.log(Cor.Amarelo, Cor.Vermelho, Cor.Preto) //Imprimindo só alguns dados
 
 
 
@@ -85,7 +85,7 @@ function digaOi(): void //Void não retorna nada
 digaOi() //Forçando a função retornar algo
 
 //Number
-function multiplicar(numA:number, numB:number): number
+function multiplicar(numA: number, numB: number): number
 {
     return numA * numB
 }
@@ -104,7 +104,7 @@ console.log(calculo(10, 25))
 
 
 //OBJETOS E TIPOS
-let usuario: {nome: string, idade:number} = 
+let usuario: {nome: string, idade: number} = 
 {
     nome: 'Samantha Sales',
     idade: 67
